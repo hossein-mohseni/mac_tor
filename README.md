@@ -17,5 +17,6 @@ sudo python3.9 tor_restarter.py
 after runnig the script just press 1 DONE :|
 
 minimize the terminal and run any app you want with proxychains :)
+# 
 
 hope you enjoy my first script 
