@@ -1,8 +1,8 @@
-# tor_restarter-and-mac_changer
+# tor Auto restarter & mac changer
 mac changer and tor re-starter this script restart tor service every 17 sec!
 you can use this script for restarting tor and if you use proxychains it's will connect with diffrent ip every 17 sec so you can use proxycahins with hydra and now you can try brutforce attack on smtp like you'r Gmail and else!!
 
-INSTALLTION
+#INSTALLTION
 
 git clone https://github.com/security-hm/mac_tor.git
 
@@ -12,7 +12,7 @@ sudo chmod +x *
 
 sudo python3.9 tor_restarter.py
 
-USAGE
+#USAGE
 
 after runnig the script just press 1 DONE :|
 
