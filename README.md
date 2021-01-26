@@ -18,4 +18,4 @@ after runnig the script just press 1 DONE :|
 
 minimize the terminal and run any app you want with proxychains :)
 
-hopo you enjoy my first script 
+hope you enjoy my first script 
