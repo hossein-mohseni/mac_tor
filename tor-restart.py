@@ -1,3 +1,6 @@
+# Program: mac Addres changer & Auto tor restarter
+# Author: security-hm
+
 import time
 from os import system
 import os
