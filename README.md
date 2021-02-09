@@ -10,7 +10,7 @@ cd mac_tor
 
 sudo chmod +x *
 
-sudo python3.9 tor_restarter.py
+sudo python3.9 tor-restarter.py
 
 # USAGE
 
