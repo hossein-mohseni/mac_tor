@@ -25,7 +25,7 @@ minimize the terminal and run any app you want with proxychains :)
 # what's new in v2.05
 
 # + Bug Fixed
-# + now you cat select restart time!
+# + now you can select restart time!
 # + new design
  
 hope you enjoy my first script 
