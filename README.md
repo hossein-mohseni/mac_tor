@@ -27,5 +27,5 @@ minimize the terminal and run any app you want with proxychains :)
 # + Bug Fixed
 # + now you cat select restart time!
 # + new design
-# 
+ 
 hope you enjoy my first script 
