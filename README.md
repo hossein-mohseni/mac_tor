@@ -10,13 +10,16 @@ cd mac_tor
 
 sudo chmod +x *
 
+sudo python3.9 -m pip install -r requirements.txt
+
 sudo python3.9 tor-restarter.py
 
 # USAGE
 
-after runnig the script just press 1 DONE :|
-
+just run it :D
+it's Eeasy to use!
 minimize the terminal and run any app you want with proxychains :)
+
 # 
 
 hope you enjoy my first script 
