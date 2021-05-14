@@ -17,9 +17,15 @@ sudo python3.9 tor-restarter.py
 # USAGE
 
 just run it :D
+
 it's Eeasy to use!
+
 minimize the terminal and run any app you want with proxychains :)
 
-# 
+# what's new in v2.05
 
+# + Bug Fixed
+# + now you cat select restart time!
+# + new design
+# 
 hope you enjoy my first script 
